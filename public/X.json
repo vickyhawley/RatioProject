@@ -1,0 +1,237 @@
+{
+    "X":[{
+      "city": "Dimilu",
+      "road": [ {"north": "Eludismisnu"},
+        {"south": "Emusnu"},
+        {"east": "Modema"},
+        {"west": "E"}],
+      "destroyed": false  
+    },
+    {
+      "city": "E",
+      "road": [ {"north": "Mu"},
+        {"south": "Aninige"},
+        {"east": "Dimilu"},
+        {"west": "Asmismu"}],
+      "destroyed": false 
+    },
+    {
+      "city": "Malixo",
+      "road": [ {"north": null},
+        {"south": "Enolmu"},
+        {"east": "Dixu"},
+        {"west": "Dodala"}],
+      "destroyed": false 
+    },
+    {
+      "city": "Ege",
+      "road": [ {"north": "Dodala"},
+        {"south": "Eludisnismu"},
+        {"east": "Enolmu"},
+        {"west": "Amasna"}],
+      "destroyed": false 
+    },
+    {
+      "city": "Dolamisme",
+      "road": [ {"north": "Emusnu"},
+        {"south": null},
+        {"east": "Anu"},
+        {"west": "Du-Minime"}],
+      "destroyed": false 
+    },
+    {
+      "city": "Asmismu",
+      "road": [ {"north": "Mudaxu"},
+        {"south": "Malexo"},
+        {"east": "E"},
+        {"west": null}],
+      "destroyed": false
+    },
+    {
+      "city": "Dixu",
+      "road": [ {"north": null},
+        {"south": "Emusno"},
+        {"east": null},
+        {"west": "Malixo"}],
+      "destroyed": false
+    },
+    {
+      "city": "Mu",
+      "road": [ {"north": "Amasna"},
+        {"south": "E"},
+        {"east": "Eludismisnu"},
+        {"west": "Mudaxu"}],
+      "destroyed": false
+    },
+    {
+      "city": "Modema",
+      "road": [ {"north": "Dusmu"},
+        {"south": "Aluligige"},
+        {"east": "Dixusno"},
+        {"west": "Dimilu"}],
+      "destroyed": false
+    },
+    {
+      "city": "Dimilu",
+      "road": [ {"north": "Eludismisnu"},
+        {"south": "Emusnu"},
+        {"east": "Modema"},
+        {"west": "E"}],
+      "destroyed": false
+    },
+    {
+      "city": "Du-Minime",
+      "road": [ {"north": "Aninige"},
+        {"south": null},
+        {"east": "Dolamisme"},
+        {"west": "Mixu"}],
+      "destroyed": false
+    },
+    {
+      "city": "Eludismisnu",
+      "road": [ {"north": "Ege"},
+        {"south": "Dimilu"},
+        {"east": "Dusmu"},
+        {"west": "Mu"}],
+      "destroyed": false
+    },
+    {
+      "city": "Esmusno",
+      "road": [ {"north": "Dixu"},
+        {"south": "Mesmina"},
+        {"east": null},
+        {"west": "Enolmu"}],
+      "destroyed": false
+    },
+    {
+      "city": "Amasna",
+      "road": [ {"north": "Mo"},
+        {"south": "Mu"},
+        {"east": "Ege"},
+        {"west": "Digisma"}],
+      "destroyed": false
+    },
+    {
+      "city": "Dusmu",
+      "road": [ {"north": "Enolmu"},
+        {"south": "Modema"},
+        {"east": "Mesmina"},
+        {"west": "Eludisnismu"}],
+      "destroyed": false
+    },
+    {
+      "city": "Anodago",
+      "road": [ {"north": null},
+        {"south": "Digisma"},
+        {"east": "Mo"},
+        {"west": null}],
+      "destroyed": false
+    },
+    {
+      "city": "Malexo",
+      "road": [ {"north": "Asmismu"},
+        {"south": "Mixu"},
+        {"east": "Aninige"},
+        {"west": null}],
+      "destroyed": false
+    },
+    {
+      "city": "Aninige",
+      "road": [ {"north": "E"},
+        {"south": "Du-Minime"},
+        {"east": "Emusnu"},
+        {"west": "Malexo"}],
+      "destroyed": false
+    },
+    {
+      "city": "Mixu",
+      "road": [ {"north": "Malexo"},
+        {"south": null},
+        {"east": "Du-Minime"},
+        {"west": null}],
+      "destroyed": false
+    },
+    {
+      "city": "Mesmina",
+      "road": [ {"north": "Esmusno"},
+        {"south": "Dixusno"},
+        {"east": null},
+        {"west": "Dusmu"}],
+      "destroyed": false
+    },
+    {
+      "city": "Mo",
+      "road": [ {"north": null},
+        {"south": "Amasna"},
+        {"east": "Dodala"},
+        {"west": "Anodago"}],
+      "destroyed": false
+    },
+    {
+      "city": "Anu",
+      "road": [ {"north": "Aluligige"},
+        {"south": null},
+        {"east": null},
+        {"west": "Dolamisme"}],
+      "destroyed": false
+    },
+    {
+      "city": "Digisma",
+      "road": [ {"north": "Anodago"},
+        {"south": "Mudaxu"},
+        {"east": "Amasna"},
+        {"west": null}],
+      "destroyed": false
+    },
+    {
+      "city": "Enolmu",
+      "road": [ {"north": "Malixo"},
+        {"south": "Dusmu"},
+        {"east": "Esmusno"},
+        {"west": "Ege"}],
+      "destroyed": false
+    },
+    {
+      "city": "Mudaxu",
+      "road": [ {"north": "Digisma"},
+        {"south": "Asmismu"},
+        {"east": "Mu"},
+        {"west": null}],
+      "destroyed": false
+    },
+    {
+      "city": "Dodala",
+      "road": [ {"north": null},
+        {"south": "Ege"},
+        {"east": "Malixo"},
+        {"west": "Mo"}],
+      "destroyed": false
+    },
+    {
+      "city": "Dixusno",
+      "road": [ {"north": "Mesmina"},
+        {"south": null},
+        {"east": null},
+        {"west": "Modema"}],
+      "destroyed": false
+    },
+    {
+      "city": "Aluligige",
+      "road": [ {"north": "Modema"},
+        {"south": "Anu"},
+        {"east": null},
+        {"west": "Emusnu"}],
+      "destroyed": false
+    },
+    {
+      "city": "Emusnu",
+      "road": [ {"north": "Dimilu"},
+        {"south": "Dolamisme"},
+        {"east": "Aluligige"},
+        {"west": "Aninige"}],
+      "destroyed": false
+    }],
+    "monsters": [{"travel": true},
+    {"fight": false},
+{"destroy": false}]
+  }
